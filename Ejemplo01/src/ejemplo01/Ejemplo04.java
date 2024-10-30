@@ -14,6 +14,9 @@ public class Ejemplo04 {
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;
+        
+        // La diferencia entre el println y print es, el println me imprime y me da automaticamente un salto de linea mientras que el print  solo me me imprime
+        
         System.out.print(nombreEstudiante + " ");
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
