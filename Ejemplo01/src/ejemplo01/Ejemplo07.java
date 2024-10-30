@@ -16,7 +16,8 @@ public class Ejemplo07 {
         double numerador = 10.0;
         double denominador = 3.0;
         double resultado = numerador / denominador;
-        
+        // al usar el %f se nos preenta todos los decimales  mientras que el 
+        //%.nf solo nos muestra los decimales que nosotros le indiquemos
         System.out.printf("El resultados es: %f\n", resultado);
         
         System.out.printf("El resultados es: %.2f\n", resultado);
