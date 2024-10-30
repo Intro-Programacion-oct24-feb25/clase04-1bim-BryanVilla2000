@@ -30,7 +30,8 @@ public class Ejemplo10 {
         //System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
         //System.out.println(nombreEstudiante+"\n\n\t"+apellidoEstudiante);
         
-        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+edad);
+        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+
+                edad);
         
     }
 }
